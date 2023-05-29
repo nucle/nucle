@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/bc16d802-14f7-402a-be80-5903cb9ee5a2.svg)](https://wakatime.com/@bc16d802-14f7-402a-be80-5903cb9ee5a2)
+
 <!--
 **nucle/nucle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
