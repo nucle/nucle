@@ -2,6 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/bc16d802-14f7-402a-be80-5903cb9ee5a2.svg)](https://wakatime.com/@bc16d802-14f7-402a-be80-5903cb9ee5a2)
 
+<figure><embed src="https://wakatime.com/share/@nucle/cec649bb-21ca-4399-bbe9-cda5ac197ad5.svg"></embed></figure>
 <!--
 **nucle/nucle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
